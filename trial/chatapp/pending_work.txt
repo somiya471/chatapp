@@ -1,0 +1,6 @@
+login system
+user name and pic
+file sharing
+clear messages
+password protection for joining in
+display user recent rooms
